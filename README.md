@@ -177,5 +177,16 @@ Publish the website in the given URL.
 
 ![output](./static/img/o4.png)
 
+![output](./static/img/o5.png)
+
+![output](./static/img/o6.png)
+
+## VALIDATION REPORT
+
+![output](./static/img/v1.png)
+
+![output](./static/img/v2.png)
+
+
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://kumaravel.student.saveetha.in:8000/.
